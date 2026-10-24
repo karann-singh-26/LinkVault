@@ -2,7 +2,9 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+
+const API_URL = "https://linkvault-q3ia.onrender.com";
+
 
 const scienceFacts = [
   {
